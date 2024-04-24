@@ -1,4 +1,4 @@
-# 2022 Group Project
+# 2022 Group Prolog Project
 
 ## Prolog Culinary Recipe System
 
