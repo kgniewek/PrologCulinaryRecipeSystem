@@ -35,5 +35,17 @@ To run this project, ensure Prolog and Java are installed on your system. Start 
 ### Data Handling
 The project uses pre-existing recipe and ingredient data, which was parsed and prepared using Java. This preprocessing was necessary to ensure compatibility with Prolog's requirements and to streamline the user experience within the expert system.
 
+### Project Structure
+- 📁 **root**
+  - `all_ingredients(sample).txt`
+  - `content_of_recipes(sample).txt`
+  - `ingredients_of_recipes(sample).txt`
+  - `ingredients_of_recipes_alt(sample).txt`
+  - `projekt.pl`
+  - 📁 **src**
+    - `FileHelper.java`
+    - `Main.java`
+
+
 ### Conclusion and Presentation
 The project culminated in a successful presentation, where we demonstrated the functionality of the system and discussed our learning experiences regarding teamwork and the application of programming skills in a real-world-like scenario. The feedback was incorporated to refine the system further.
